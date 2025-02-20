@@ -1,5 +1,3 @@
-## Hi there 👋 I'm Yasasi
-
 <h1 align="center">Hi 👋, I'm Yasasi Ravihansi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
